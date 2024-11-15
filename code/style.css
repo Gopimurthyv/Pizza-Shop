@@ -273,9 +273,10 @@ button:active {
 .price button {
     color: #FFFFFF;
     border: none;
+    font-size: 24px;
     background-color: transparent;
     outline: none;
-    width: 70px;
+    width: 100px;
     height: 35px;
     border-radius: 20px;
     background-color: #ea272d;
